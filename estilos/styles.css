@@ -2,6 +2,7 @@ h1 {color: red;
 font-size: large;
 text-align: center;
 transition: 2s;
+padding: 20px;
 }
 h1:hover {
     color: black;
