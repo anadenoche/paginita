@@ -1,3 +1,7 @@
+*{margin: 0;}
+.header{
+    background-color: bisque;
+} 
 h1 {color: red;
 font-size: large;
 text-align: center;
@@ -7,5 +11,27 @@ padding: 20px;
 h1:hover {
     color: black;
     font-size: xx-large;
+
+}
+
+.Menu__lista {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    font-size: larger;
+    padding: 10px;
+}
+ .Menu__lista a {
+    text-decoration: none;
+    color: black;
+    border: black 1px solid;
+    padding: 2px;
+  
+ }
+
+.list__item:hover {
+    background-color: coral;
 
 }
