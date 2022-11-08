@@ -1,3 +1,10 @@
 h1 {color: brown;
-font-size: xx-large;
-text-align: center;}
+font-size: large;
+text-align: center;
+transition: 2s;
+height: 100px;}
+h1:hover {
+    height: 200px;
+    font-size: xx-large;
+
+}
