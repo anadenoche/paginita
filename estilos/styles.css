@@ -1,16 +1,18 @@
+@import url(estiloscosa1.css);
+
 *{margin: 0;
 }
-.header{
+.header__index{
     background-color: bisque;
     height: 200px;
 } 
-h1 {color: red;
+.header__index h1 {color: red;
 font-size: large;
 text-align: center;
 transition: 2s;
 padding: 20px;
 }
-h1:hover {
+.header__index:hover {
     color: black;
     font-size: xx-large;
 
