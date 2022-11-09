@@ -37,3 +37,10 @@ h1:hover {
     background-color: coral;
 
 }
+
+@media (max-width: 767px) {
+    .Menu__lista {
+        font-size: 70%;
+    }
+
+}
