@@ -1,0 +1,13 @@
+.header__cosa2 {
+
+    display: flex;
+    background-color: crimson;
+    color: aliceblue;
+    height: 150px;
+    text-align: center;     /* NO ENTEIDNO PORQUE NO ME AGGARA ESTE */
+    align-items: center;
+    margin-bottom: 30px;
+
+  
+}
+
