@@ -12,7 +12,7 @@ text-align: center;
 transition: 2s;
 padding: 20px;
 }
-.header__index:hover {
+.titulo__index:hover {
     color: black;
     font-size: xx-large;
 
