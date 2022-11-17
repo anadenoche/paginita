@@ -4,10 +4,12 @@ let estado = prompt("COMO ANDAS?")
 
 
 
-if (estado = "bien") {
-    let mensaje = prompt("Hola, " + nombre + ". Qué bueno que estés bien, yo también.")
+if(estado == "bien") {
+    alert("Hola, " + nombre + ". Qué bueno que estés bien, yo también.")
 }
-else {
-    let mensaje2 = prompt("Hola, " + nombre + ". Tranqui, a veces es así.")
-    
+else{
+    alert("Hola, " + nombre + ". Tranqui, a veces es así.")
 }
+
+
+
